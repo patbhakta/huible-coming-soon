@@ -19,7 +19,7 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
     animationSpeed = 3
     let container = document.getElementById("container")
     let nElement = document.createElement("p")
-    nElement.innerHTML = 'Aperte numa folha para ler uma frase especial que eu guardei pra <u>você.</u>'
+    nElement.innerHTML = 'Click on a leaf to see a <u>HUIBLE</u>'
     container.appendChild(nElement)
 }
 
