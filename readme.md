@@ -1,3 +1,3 @@
 yarn install
-yearn build
-yearn start
+yarn build
+yarn start
